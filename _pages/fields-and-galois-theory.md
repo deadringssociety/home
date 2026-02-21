@@ -17,7 +17,7 @@ Consider a map $\varphi: \mathbb{Z} \to F$ defined by $n \mapsto n \cdot 1_F$.
 **Recall:** A ring homomorphism is a map $\varphi: R_1 \to R_2$ with the following properties:
 * $\varphi(x)\varphi(y) = \varphi(xy)$
 * $\varphi(x) + \varphi(y) = \varphi(x + y)$
-* $\varphi(1_{R_1}) = 1_{R_2}$
+* $\varphi(1_{a}) = 1_{b}$ where 1_a is the identity in R_1 and 1_b is the identity in R_2.
 
 Please take care to realize that the operations on opposite sides of the equality sign live in **different rings**, i.e., $R_1$ and $R_2$.
 
