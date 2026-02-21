@@ -22,10 +22,6 @@ repository               : "deadringssociety.github.io/home"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 
-  # Academic websites
-
-  inspire-hep      : # URL
-  impactstory      : # URL
    
 
 
